@@ -2,7 +2,7 @@
 "Potenciando el crecimiento empresarial a través de la innovación administrativa."
 
 
-<img width="800" height="640" alt="image" src="https://github.com/user-attachments/assets/c672d76d-a598-4a3f-bf3b-7cdfc97b4cd2" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c672d76d-a598-4a3f-bf3b-7cdfc97b4cd2" />
 
 
 📝 Descripción
